@@ -1,0 +1,22 @@
+{
+    "name": "CodeWriter.Morpeh.Native",
+    "references": [
+        "Scellecs.Morpeh",
+        "Unity.Collections"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.collections",
+            "expression": "0.0.1",
+            "define": "MORPEH_UNITY_COLLECTIONS_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}

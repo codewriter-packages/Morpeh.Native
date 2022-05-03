@@ -1,0 +1,10 @@
+{
+  "name": "com.codewriter.morpeh.native",
+  "displayName": "Morpeh.Native",
+  "description": "Native API for Morpeh ECS",
+  "version": "0.1.0",
+  "unity": "2020.1",
+  "license": "MIT",
+  "author": "Vlad Vanifatov (https://github.com/vanifatovvlad)",
+  "dependencies": {}
+}
